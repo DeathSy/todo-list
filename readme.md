@@ -18,3 +18,4 @@
       <li>หากต้องการ reset ค่าใน database ใหม่ให้รันคำสั่ง php artisan migrate:rollback ใน cmd หลังจากนั้นให้สั่ง php artisan migrate อีกที</li>
     </ol>
   </p>
+<p>วันที่ให้พี่ดูงานคือวันจันทร์ที่ 20 มีนาคมนะจ้ะ up ขึ้น repo ตัวเองแล้วเอาลิ้งมาให้พี่ดูด้วย</p>
